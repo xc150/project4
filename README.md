@@ -9,4 +9,4 @@ The pipeline of a serverless data engineering project architecture is as follows
 In this project, I reproduce the example NLP project that can return a sentiment and extract key phrases given a company name. The original example project can be found [here](https://github.com/noahgift/awslambda).
 
 ## Video demo
-A demo video can be found [here](https://github.com/noahgift/awslambda).
+A demo video can be found [here](https://youtu.be/WXoTMsFrf1w).
